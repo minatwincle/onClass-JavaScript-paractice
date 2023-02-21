@@ -1,0 +1,16 @@
+var num = 12345678;
+console.log(num);
+var str = 'ぬるんふっふっふ';
+console.log(str);
+var boo = false;
+console.log(boo);
+var add = 10 + 20;
+console.log(add);
+var sub = 20 - 10;
+console.log(sub);
+var mul = 50 * 2;
+console.log(mul);
+var div = 20 / 2;
+console.log(div);
+var str2 = '12' + '34';
+console.log(str2);
