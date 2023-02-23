@@ -43,5 +43,5 @@ let str = 'OK';
 if(str === 'Umm...'){
   console.log('Umm');
 }else {
-  console.log('OK');
+  console.log(str);
 };
